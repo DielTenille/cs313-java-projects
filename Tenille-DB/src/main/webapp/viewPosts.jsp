@@ -36,7 +36,7 @@
                             </thead>
                             <tbody>
                             <c:forEach var="post" items="${posts}">    
-                                ${posts}                                              
+                                ${post}                                              
                             </c:forEach>
                             </tbody>
                         </table>
